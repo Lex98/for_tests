@@ -30,7 +30,7 @@ def count_word_and_sentence(text):
 def sum_and_multi(number):
     """Fourth test exervise"""
     if not isinstance(number, int):
-        raise TypeError('Text must be string')
+        raise TypeError('Text must be integer')
 
     number_as_list = [int(s) for s in str(number)]
     sum_of_numerals = sum(number_as_list)
