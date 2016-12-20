@@ -39,6 +39,7 @@ def sum_and_multi(number):
 
 
 def main():
+    """main function"""
     print('swap a and b: {}'.format(swap_a_b()))
     print('upcase reverse: {}'.format(upcase_reverse("hello world!")))
     text = "Написать функцию, которая во входных параметрах принимает строку с текстом.\
