@@ -1,2 +1,2 @@
 # for_tests
-Repository for tests app
+Repository for app for test
